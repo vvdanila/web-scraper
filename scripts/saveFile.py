@@ -31,7 +31,7 @@ def saveFile(scrap, filename):
 
 if __name__ == '__main__':
 
-    filename = 'secondTest.csv'
+    filename = 'thirdtest.csv'
     locationList = locationList.locationList('wLocalities.csv')
     
     for loc in locationList:
